@@ -7,26 +7,45 @@ Bu Kullanım Sözleşmesi (“Sözleşme”), Emlak Plus mobil uygulamasının (
 Emlak Plus, kullanıcıların portföy, alıcı, satıcı bilgileri yönetimi, harita üzerinden portföy takibi ve görev/hatırlatma oluşturabilmesine olanak sağlayan bir dijital gayrimenkul yönetim uygulamasıdır.
 
 3. Kullanım Koşulları
-Uygulamanın tüm fonksiyonları yalnızca kayıtlı ve geçerli kullanıcılar tarafından kullanılabilir.
-Kullanıcı, uygulamaya kayıt olurken verdiği bilgilerin doğru ve güncel olduğunu kabul eder.
-Kullanıcı, uygulama içindeki tüm işlemlerden münferiden sorumludur.
-Kullanıcı, üçüncü kişilerin haklarına zarar verecek şekilde uygulamayı kullanamaz, hukuka aykırı işlem gerçekleştiremez.
-4. Fikri Mülkiyet Hakları
-Uygulamada sunulan tüm içerik, tasarım, yazılım ve marka hakları Emlak Plus’a aittir.
-Kullanıcı, uygulama içeriğini izinsiz çoğaltamaz, kopyalayamaz, dağıtamaz veya ticari amaçla kullanamaz.
-5. Sorumluluğun Sınırlandırılması
-Emlak Plus, uygulamanın kesintisiz, hatasız veya virüssüz çalışacağını garanti etmez.
-Uygulama üzerinden sunulan bilgiler yalnızca bilgilendirme amaçlıdır; kullanıcı bu bilgilere dayanarak yaptığı işlemlerden tamamen sorumludur.
-Uygulamanın kullanımından doğan doğrudan veya dolaylı zararlardan Emlak Plus hiçbir şekilde sorumlu değildir.
-6. Üçüncü Taraf Servisler
-Uygulamada, konum hizmetleri ve Google Firebase gibi üçüncü taraf servisler kullanılabilir. Kullanıcı, bu servislerin kendi kullanım ve gizlilik şartlarını kabul eder.
-7. Değişiklikler
-Emlak Plus, bu Sözleşme’de dilediği zaman değişiklik yapma hakkını saklı tutar.
-Güncel Sözleşme uygulama üzerinden yayınlandığı anda geçerli olur.
-8. Kişisel Veriler ve Gizlilik
-Kullanıcının kişisel verilerinin kullanımı ve korunması, uygulamanın Gizlilik Politikası kapsamında düzenlenmiştir.
-9. Yürürlük
-Kullanıcı, uygulamayı indirerek ve kullanarak bu sözleşmedeki tüm maddeleri okuduğunu, anladığını ve kabul ettiğini beyan eder.
-10. İletişim
+3.1. Uygulamanın tüm fonksiyonları yalnızca kayıtlı ve geçerli kullanıcılar tarafından kullanılabilir.
+3.2. Kullanıcı, uygulamaya kayıt olurken verdiği bilgilerin doğru ve güncel olduğunu kabul eder.
+3.3. Kullanıcı, uygulama içindeki tüm işlemlerden münferiden sorumludur.
+3.4. Kullanıcı, üçüncü kişilerin haklarına zarar verecek şekilde uygulamayı kullanamaz, hukuka aykırı işlem gerçekleştiremez.
+
+4. Abonelikler ve Üyelik Tipleri
+4.1. Emlak Plus uygulamasında “Aylık Abonelik” ve “Yıllık Abonelik” olmak üzere iki farklı abonelik seçeneği sunulmaktadır.
+4.2. Abonelik satın alan kullanıcılar, sınırsız sayıda alıcı, satıcı, portföy ve fotoğraf ekleyebilir.
+4.3. Ücretsiz üyeler, her birinden yalnızca bir adet alıcı, satıcı ve portföy ekleyebilir.
+4.4. Abonelikler otomatik olarak yenilenir ve ilgili platformun (App Store) hesabı üzerinden tahsil edilir. Kullanıcı, dilediği zaman aboneliğini iptal edebilir.
+4.5. Abonelik süresi ve ücretleri, uygulama içinde ve App Store’da açıkça belirtilir.
+
+5. Hesap Silme ve Veri Yönetimi
+5.1. Kullanıcı, dilediği zaman Ayarlar > Hesabımı Sil adımlarını izleyerek hesabını ve tüm kişisel verilerini kalıcı olarak silebilir.
+5.2. Hesabın silinmesiyle birlikte kullanıcıya ait tüm veriler geri dönülmez şekilde kaldırılır.
+
+6. Fikri Mülkiyet Hakları
+6.1. Uygulamada sunulan tüm içerik, tasarım, yazılım ve marka hakları Emlak Plus’a aittir.
+6.2. Kullanıcı, uygulama içeriğini izinsiz çoğaltamaz, kopyalayamaz, dağıtamaz veya ticari amaçla kullanamaz.
+
+7. Sorumluluğun Sınırlandırılması
+7.1. Emlak Plus, uygulamanın kesintisiz, hatasız veya virüssüz çalışacağını garanti etmez.
+7.2. Uygulama üzerinden sunulan bilgiler yalnızca bilgilendirme amaçlıdır; kullanıcı bu bilgilere dayanarak yaptığı işlemlerden tamamen sorumludur.
+7.3. Uygulamanın kullanımından doğan doğrudan veya dolaylı zararlardan Emlak Plus hiçbir şekilde sorumlu değildir.
+
+8. Üçüncü Taraf Servisler
+8.1. Uygulamada, konum hizmetleri ve Google Firebase gibi üçüncü taraf servisler kullanılabilir. Kullanıcı, bu servislerin kendi kullanım ve gizlilik şartlarını kabul eder.
+
+9. Değişiklikler
+9.1. Emlak Plus, bu Sözleşme’de dilediği zaman değişiklik yapma hakkını saklı tutar.
+9.2. Güncel Sözleşme uygulama üzerinden yayınlandığı anda geçerli olur.
+
+10. Kişisel Veriler ve Gizlilik
+10.1. Kullanıcının kişisel verilerinin kullanımı ve korunması, uygulamanın Gizlilik Politikası kapsamında düzenlenmiştir.
+10.2. Gizlilik politikamıza buradan ulaşabilirsiniz.
+
+11. Yürürlük
+11.1. Kullanıcı, uygulamayı indirerek ve kullanarak bu sözleşmedeki tüm maddeleri okuduğunu, anladığını ve kabul ettiğini beyan eder.
+
+12. İletişim
 Sözleşmeyle ilgili tüm sorular ve talepler için:
 tahafurkansarican@gmail.com
